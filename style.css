@@ -105,6 +105,10 @@ h1, h2, h3 {
     color: #591B98;
 }
 
+ul li::marker {
+    color: #333333;
+}
+
 footer {
     padding-top: 40px
 }
