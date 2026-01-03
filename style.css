@@ -67,10 +67,6 @@ li {
     padding: 0px;
 }
 
-ul li::marker {
-  color: #333333;
-}
-
 h1 {
     font-size: 36px;
     font-style: normal;
